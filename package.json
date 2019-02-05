@@ -18,5 +18,8 @@
   "homepage": "https://github.com/digital-analytics-program/gov-wide-code#readme",
   "dependencies": {
     "uglify-js": "^3.4.9"
+  },
+  "devDependencies": {
+    "qunit": "^2.9.1"
   }
 }
